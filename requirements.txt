@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+langgraph
+ollama
+trafilatura
+requests
+pydantic
+sqlite-utils
+beautifulsoup4
